@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/KSP-CKAN/CKAN/master/CKAN.schema",
+    "spec_version": 1,
+    "name": "Avicebron Patches",
+    "identifier": "Avicebron",
+    "abstract": "A set of MM patches for how I play",
+    "license": "CC-BY-NC-SA-4.0",
+    "author": "avicebron",
+    "version": "0.0.1",
+    "release_status": "development",
+    "ksp_version_min": "1.12.0",
+    "depends": [
+        { "name": "ModuleManager", "min_version": "4.2.2" },
+        { "name": "KipDockingPorts", "min_version": "1.0" }
+    ]
+}
