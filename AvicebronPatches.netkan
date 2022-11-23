@@ -12,5 +12,8 @@
     "depends": [
         { "name": "ModuleManager", "min_version": "4.2.2" },
         { "name": "KipDockingPorts", "min_version": "1.0" }
+    ],
+    "supports": [
+        { "name": "ConnectedLivingSpace" }
     ]
 }
