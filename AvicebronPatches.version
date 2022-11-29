@@ -1,0 +1,25 @@
+{
+  "NAME": "AvicebronPatches",
+  "URL": "https://github.com/msl521/AvicebronPatches",
+  "DOWNLOAD": "https://github.com/msl521/AvicebronPatches/releases",
+  "GITHUB": {
+    "USERNAME": "msl521",
+    "REPOSITORY": "AvicebronPatches"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 0,
+    "PATCH": 1,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 3
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 0
+  }
+}
