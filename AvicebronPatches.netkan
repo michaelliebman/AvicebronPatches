@@ -11,7 +11,8 @@
     "ksp_version_min": "1.12.0",
     "depends": [
         { "name": "ModuleManager", "min_version": "4.2.2" },
-        { "name": "KipDockingPorts", "min_version": "1.0" }
+        { "name": "KipDockingPorts", "min_version": "1.0" },
+        { "name": "PatchManager", "min_version": "0.0.17.6" }
     ],
     "supports": [
         { "name": "ConnectedLivingSpace" }
