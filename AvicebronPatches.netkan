@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "author": "Avicebron",
     "download": "https://github.com/msl521/AvicebronPatches/releases",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "release_status": "development",
     "ksp_version_min": "1.12.0",
     "depends": [
